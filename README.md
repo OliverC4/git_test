@@ -1,1 +1,1 @@
-This is OliverC4's first git project honny!
+The beginning of "Reality Inn"!
